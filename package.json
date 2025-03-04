@@ -1,0 +1,24 @@
+{
+  "name": "ts-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node api/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thompsondaniel/ts-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thompsondaniel/ts-webhook/issues"
+  },
+  "homepage": "https://github.com/thompsondaniel/ts-webhook#readme",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
